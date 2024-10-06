@@ -1,0 +1,1 @@
+//postman api is used to check the routes data

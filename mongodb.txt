@@ -1,0 +1,8 @@
+mongodb  is nosql database. 
+two database one is sql and nosql. sql work on relational database. but no sql in doucment based.
+//strong support for aggregation pipes.
+// works on bson format.
+// best for node application.
+command
+1.show dbs // show the database.
+2.use database name example use vinay it can use vinay database.
